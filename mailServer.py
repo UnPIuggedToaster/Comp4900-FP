@@ -18,7 +18,7 @@ def sendEmail(msg):
     password = "dks33dSpLooJdH" 
 
     # add email addresses to this section when testing. 
-    to = ["hassan96allam@gmail.com"]
+    to = ["email@gmail.com"]
 
     # message = MIMEText("This message is sent from your local python email server.")
     
