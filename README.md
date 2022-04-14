@@ -22,4 +22,4 @@ The project consists of the following files:
     
 To run the program, first you must run server.c, then mailServer.py, and then client.c
 
-The QNX framework is required to run this program, as is python3. 
+The QNX framework is required to run server.c and client.c, python3 is required to run mailServer.py. 
