@@ -1,7 +1,5 @@
 
 #
-#	Makefile for hello project
-#
 
 DEBUG = -g
 CC = qcc
