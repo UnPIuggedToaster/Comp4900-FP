@@ -15,7 +15,7 @@ def sendEmail(msg):
     sslPort = 587 # port for ssl 
     
     From = "finalprojectqnx@outlook.com"
-    password = "dks33dSpLooJdH" 
+    password = "" 
 
     # add email addresses to this section when testing. 
     to = ["email@gmail.com"]
